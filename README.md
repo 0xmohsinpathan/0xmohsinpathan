@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/0xmohsin" target="blank"><img src="https://img.shields.io/twitter/follow/0xmohsin?logo=twitter&style=for-the-badge" alt="0xmohsin" /></a> </p>
 
-- 🔭 I’m currently working at @games_project
+- 🔭 I’m currently working on @games_project
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🌱 I’m currently learning: **𝙴𝚕𝚒𝚡𝚒𝚛 𝙵𝚞𝚗𝚌𝚝𝚒𝚘𝚗𝚊𝚕 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎**
 - 🤔 I’m looking for pair programming in elixir.
@@ -41,7 +41,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0xmohsinpathan&show_icons=true&locale=en" alt="0xmohsinpathan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0xmohsinpathan&" alt="0xmohsinpathan" /></p>
+
 
 
 </details>
