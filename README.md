@@ -36,11 +36,11 @@
  **About Me:** I have a background in commerce, but my true passion lies in programming. Over the past two years, I've honed my programming skills through both formal education and hands-on experience. In my free time, you'll often find me in the gym or coding away on a personal project. I love the challenge of solving problems through code, and I'm always eager to learn more. My diverse interests and experiences have taught me to be open to new opportunities and to pursue what I love.
   
   
-#### Coding Stats
+## Coding Stats
   
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xmohsinpathan&show_icons=true&locale=en&layout=compact" alt="0xmohsinpathan" /></p>
   
-#### Github Stats
+## Github Stats
   
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0xmohsinpathan&show_icons=true&locale=en" alt="0xmohsinpathan" /></p>
 
