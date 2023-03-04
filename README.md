@@ -1,4 +1,4 @@
-[![MasterHead](https://media0.giphy.com/media/13UZisxBxkjPwI/giphy.gif?cid=ecf05e47frk7k4er38yi15193fvuptvrylnqcj7e9maey2dg&rid=giphy.gif&ct=g)]
+<!-- [![MasterHead](https://media0.giphy.com/media/13UZisxBxkjPwI/giphy.gif?cid=ecf05e47frk7k4er38yi15193fvuptvrylnqcj7e9maey2dg&rid=giphy.gif&ct=g)] -->
 <h1 align="center">😁 Hi There! I'm Mohsin Khan</h1>
 <h3 align="center">𝖨'𝗆 𝖺𝗌𝗉𝗂𝗋𝗂𝗇𝗀 𝖺 𝖿𝗎𝗅𝗅 𝗌𝗍𝖺𝖼𝗄 𝖽𝖾𝗏𝖾𝗅𝗈𝗉𝖾𝗋 𝖿𝗋𝗈𝗆 𝖨𝗇𝖽𝗂𝖺 𝗐𝗂𝗍𝗁 𝖻𝗂𝗀 𝖽𝗋𝖾𝖺𝗆𝗌 𝗈𝖿 𝖻𝖾𝖼𝗈𝗆𝗂𝗇𝗀 𝖺 𝗌𝗈𝖿𝗍𝗐𝖺𝗋𝖾 𝖾𝗇𝗀𝗂𝗇𝖾𝖾𝗋𝗂𝗇𝗀 𝗌𝗎𝗉𝖾𝗋𝗌𝗍𝖺𝗋.</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/CETSKtPqA3fYk/giphy.gif?cid=ecf05e47krzg6pv7vkamtczdv9vhgljlvewsn31z38hz60e7&rid=giphy.gif&ct=g">
