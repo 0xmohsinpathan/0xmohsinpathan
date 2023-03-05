@@ -39,7 +39,7 @@
  
  <a href="https://www.fontspace.com/category/cursive"><img align="center" src="https://see.fontimg.com/api/renderfont4/GOqKG/eyJyIjoiZnMiLCJoIjozOSwidyI6MTEwMCwiZnMiOjM1LCJmZ2MiOiIjNzNEM0IyIiwiYmdjIjoiI0M0RUZFQyIsInQiOjF9/IkZpbmQgaW50ZXJlc3RpbmcgdGhpbmdzIHRvIHdvcmsgb24gYW5kIHdvcmsgb24gdGhlbSBldmVuIGlmIHRoZXkgYXJlIGhhcmQi/honeybutter-script.png" alt="Cursive fonts"></a>
  
- <p align="center"> I have a background in commerce, but my true passion lies in programming. Over the past two years, I've honed my programming skills through both formal education and hands-on experience. In my free time, you'll often find me in the gym or coding away on a personal project. I love the challenge of solving problems through code, and I'm always looking for new challenges and ways to expand my skills. My diverse interests and experiences have taught me that you never know where your passions may take you! </p>    
+ <p align="left"> I have a background in commerce, but my true passion lies in programming. Over the past two years, I've honed my programming skills through both formal education and hands-on experience. In my free time, you'll often find me in the gym or coding away on a personal project. I love the challenge of solving problems through code, and I'm always looking for new challenges and ways to expand my skills. My diverse interests and experiences have taught me that you never know where your passions may take you! </p>    
  
  
   
