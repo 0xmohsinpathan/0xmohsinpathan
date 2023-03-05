@@ -58,3 +58,5 @@
 
 </details>    
 </details>
+
+<img align="center" alt="Coding" width="400" src="https://9to5google.com/wp-content/uploads/sites/4/2018/09/chrome-offline-dino-game-birthday.gif">
