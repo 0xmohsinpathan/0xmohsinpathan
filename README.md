@@ -44,11 +44,18 @@
  📊 Github Stats :
   </summary>
    <br > 
-  
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xmohsinpathan&show_icons=true&locale=en&layout=compact" alt="0xmohsinpathan" /></p>
-  
+   
+ <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0xmohsinpathan&show_icons=true&locale=en" alt="0xmohsinpathan" /></p> 
+   
 </details>
-  
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0xmohsinpathan&show_icons=true&locale=en" alt="0xmohsinpathan" /></p>
+ 
+  <details> 
+ <summary> 
+ 📊 Github Stats :
+  </summary>
+   <br >  
+    
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xmohsinpathan&show_icons=true&locale=en&layout=compact" alt="0xmohsinpathan" /></p>
 
+</details>    
 </details>
