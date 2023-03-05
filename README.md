@@ -38,6 +38,8 @@
 
   `Find interesting things to work on and work on them even if they are hard.`
  
+ <img align="left" alt="Coding" width="400" src="https://media0.giphy.com/media/TqgvPpfLDiwAeLotC0/giphy.gif?cid=ecf05e475i6favjxmog7uo1rcm9uhrtw9wlqxe8j56rvq597&rid=giphy.gif&ct=s">
+ 
  <details> 
  <summary> 
  📊 Github Stats :
@@ -58,9 +60,9 @@
    
 </details>  
  
- <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/82ozVGY6TnFCBmSpLt/giphy.gif?cid=ecf05e473iinit50yqbp2nfzdv9zv9pwvd5n3wudsm5xaxna&rid=giphy.gif&ct=s">  
+ <img align="center" alt="Coding" width="400" src="https://media4.giphy.com/media/82ozVGY6TnFCBmSpLt/giphy.gif?cid=ecf05e473iinit50yqbp2nfzdv9zv9pwvd5n3wudsm5xaxna&rid=giphy.gif&ct=s">  
  
-  <img align="left" alt="Coding" width="400" src="https://media0.giphy.com/media/TqgvPpfLDiwAeLotC0/giphy.gif?cid=ecf05e475i6favjxmog7uo1rcm9uhrtw9wlqxe8j56rvq597&rid=giphy.gif&ct=s">
+  
  
 </details>
 
