@@ -35,11 +35,11 @@
 </summary>
   <br >
  
- 
+ <a href="https://www.fontspace.com/category/cursive"><img align="center" src="https://see.fontimg.com/api/renderfont4/GOqKG/eyJyIjoiZnMiLCJoIjozOSwidyI6MTEwMCwiZnMiOjM1LCJmZ2MiOiIjNzNEM0IyIiwiYmdjIjoiI0M0RUZFQyIsInQiOjF9/IkZpbmQgaW50ZXJlc3RpbmcgdGhpbmdzIHRvIHdvcmsgb24gYW5kIHdvcmsgb24gdGhlbSBldmVuIGlmIHRoZXkgYXJlIGhhcmQi/honeybutter-script.png" alt="Cursive fonts"></a>
  
  <p align="right"> 𝑰 𝒉𝒂𝒗𝒆 𝒂 𝒃𝒂𝒄𝒌𝒈𝒓𝒐𝒖𝒏𝒅 𝒊𝒏 𝒄𝒐𝒎𝒎𝒆𝒓𝒄𝒆, 𝒃𝒖𝒕 𝒎𝒚 𝒕𝒓𝒖𝒆 𝒑𝒂𝒔𝒔𝒊𝒐𝒏 𝒍𝒊𝒆𝒔 𝒊𝒏 𝒑𝒓𝒐𝒈𝒓𝒂𝒎𝒎𝒊𝒏𝒈. 𝑶𝒗𝒆𝒓 𝒕𝒉𝒆 𝒑𝒂𝒔𝒕 𝒕𝒘𝒐 𝒚𝒆𝒂𝒓𝒔, 𝑰'𝒗𝒆 𝒉𝒐𝒏𝒆𝒅 𝒎𝒚 𝒑𝒓𝒐𝒈𝒓𝒂𝒎𝒎𝒊𝒏𝒈 𝒔𝒌𝒊𝒍𝒍𝒔 𝒕𝒉𝒓𝒐𝒖𝒈𝒉 𝒃𝒐𝒕𝒉 𝒇𝒐𝒓𝒎𝒂𝒍 𝒆𝒅𝒖𝒄𝒂𝒕𝒊𝒐𝒏 𝒂𝒏𝒅 𝒉𝒂𝒏𝒅𝒔-𝒐𝒏 𝒆𝒙𝒑𝒆𝒓𝒊𝒆𝒏𝒄𝒆. 𝑰𝒏 𝒎𝒚 𝒇𝒓𝒆𝒆 𝒕𝒊𝒎𝒆, 𝒚𝒐𝒖'𝒍𝒍 𝒐𝒇𝒕𝒆𝒏 𝒇𝒊𝒏𝒅 𝒎𝒆 𝒊𝒏 𝒕𝒉𝒆 𝒈𝒚𝒎 𝒐𝒓 𝒄𝒐𝒅𝒊𝒏𝒈 𝒂𝒘𝒂𝒚 𝒐𝒏 𝒂 𝒑𝒆𝒓𝒔𝒐𝒏𝒂𝒍 𝒑𝒓𝒐𝒋𝒆𝒄𝒕. 𝑰 𝒍𝒐𝒗𝒆 𝒕𝒉𝒆 𝒄𝒉𝒂𝒍𝒍𝒆𝒏𝒈𝒆 𝒐𝒇 𝒔𝒐𝒍𝒗𝒊𝒏𝒈 𝒑𝒓𝒐𝒃𝒍𝒆𝒎𝒔 𝒕𝒉𝒓𝒐𝒖𝒈𝒉 𝒄𝒐𝒅𝒆, 𝒂𝒏𝒅 𝑰'𝒎 𝒂𝒍𝒘𝒂𝒚𝒔 𝒆𝒂𝒈𝒆𝒓 𝒕𝒐 𝒍𝒆𝒂𝒓𝒏 𝒎𝒐𝒓𝒆. 𝑴𝒚 𝒅𝒊𝒗𝒆𝒓𝒔𝒆 𝒊𝒏𝒕𝒆𝒓𝒆𝒔𝒕𝒔 𝒂𝒏𝒅 𝒆𝒙𝒑𝒆𝒓𝒊𝒆𝒏𝒄𝒆𝒔 𝒉𝒂𝒗𝒆 𝒕𝒂𝒖𝒈𝒉𝒕 𝒎𝒆 𝒕𝒐 𝒃𝒆 𝒐𝒑𝒆𝒏 𝒕𝒐 𝒏𝒆𝒘 𝒐𝒑𝒑𝒐𝒓𝒕𝒖𝒏𝒊𝒕𝒊𝒆𝒔 𝒂𝒏𝒅 𝒕𝒐 𝒑𝒖𝒓𝒔𝒖𝒆 </p>     <p align="center"> 𝓦𝓗𝓐𝓣 𝓘 𝓛𝓞𝓥𝓔💗 </p>
  
- <a href="https://www.fontspace.com/category/cursive"><img align="center" src="https://see.fontimg.com/api/renderfont4/GOqKG/eyJyIjoiZnMiLCJoIjozOSwidyI6MTEwMCwiZnMiOjM1LCJmZ2MiOiIjNzNEM0IyIiwiYmdjIjoiI0M0RUZFQyIsInQiOjF9/IkZpbmQgaW50ZXJlc3RpbmcgdGhpbmdzIHRvIHdvcmsgb24gYW5kIHdvcmsgb24gdGhlbSBldmVuIGlmIHRoZXkgYXJlIGhhcmQi/honeybutter-script.png" alt="Cursive fonts"></a>
+ 
   
  <details> 
  <summary> 
