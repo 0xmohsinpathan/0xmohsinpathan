@@ -35,7 +35,7 @@
 </summary>
   <br >
   
-  <h3 align="left">`Find interesting things to work on and work on them even if they are hard.`</h3>
+  <h3 align="left"> `Find interesting things to work on and work on them even if they are hard.` </h3>
   
  I have a background in commerce, but my true passion lies in programming. Over the past two years, I've honed my programming skills through both formal education and hands-on experience. In my free time, you'll often find me in the gym or coding away on a personal project. I love the challenge of solving problems through code, and I'm always eager to learn more. My diverse interests and experiences have taught me to be open to new opportunities and to pursue what I love.
   
