@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/0xmohsin" target="blank"><img src="https://img.shields.io/twitter/follow/0xmohsin?logo=twitter&style=for-the-badge" alt="0xmohsin" /></a> </p>
 
- <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/cn2LKatpvy89MTVR3e/giphy.gif?cid=ecf05e47f69833b7c9taulnoarmq123qfalso6n7w8jtu3h1&rid=giphy.gif&ct=s">
+ <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif?cid=ecf05e47xe8t2kzo6t9h3jqalr6bka7uh4z3ra1up4lq1msh&rid=giphy.gif&ct=s">
 
 - 🔭 I’m currently working on @games_project
 - :computer: Most used line of code `git commit -m "Initial Commit"`
@@ -59,11 +59,11 @@
   </summary>
    <br >  
     
-<p><img align="left" src="https://media0.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif?cid=ecf05e47xe8t2kzo6t9h3jqalr6bka7uh4z3ra1up4lq1msh&rid=giphy.gif&ct=s" alt="0xmohsinpathan" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xmohsinpathan&show_icons=true&locale=en&layout=compact" alt="0xmohsinpathan"/></p>
    
 </details>  
  
- <img align="center" alt="Coding" width="400" src="https://media2.giphy.com/media/r5FhAjFsDzxvF0Q4qm/giphy.gif?cid=ecf05e472lufftaprvg06tmqaaiip6qrtd73hyj6zazrus87&rid=giphy.gif&ct=ts">  
+ <img align="center" alt="Coding" width="400" src="https://media2.giphy.com/media/r5FhAjFsDzxvF0Q4qm/giphy.gif?cid=ecf05e473dcz3gflo0imnkru6xmuvbpx6gen45lrae4y85j9&rid=giphy.gif&ct=ts">  
  
 </details>
 
