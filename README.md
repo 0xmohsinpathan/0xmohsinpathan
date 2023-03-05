@@ -9,8 +9,8 @@
 
 - 🔭 I’m currently working on @games_project
 - :computer: Most used line of code `git commit -m "Initial Commit"`
-- 🌱 I’m currently learning: **𝙴𝚕𝚒𝚡𝚒𝚛 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎**
-- 🤔 I’m looking for pair programming in elixir.
+- 🌱 I’m currently learning Erlang & Elixir
+- 🤔 I’m looking for pair programming in Elixir.
 - 📫 How to reach me: **0xmohsinpathan@gmail.com**.
 
 
