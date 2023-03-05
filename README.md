@@ -27,7 +27,7 @@
 
 #### Profile Visits 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=0xmohsinpathan&label=Profile%20views&color=0e75b6&style=flat" alt="0xmohsinpathan" /> </p>
+<h3 align="center"> <img src="https://komarev.com/ghpvc/?username=0xmohsinpathan&label=Profile%20views&color=0e75b6&style=flat" alt="0xmohsinpathan" /> </p>
 
 <details>
 <summary>
@@ -35,9 +35,9 @@
 </summary>
   <br >
   
- 
+  <h3, ag;ine>`Find interesting things to work on and work on them even if they are hard.`</h3>
   
- **About Me:** I have a background in commerce, but my true passion lies in programming. Over the past two years, I've honed my programming skills through both formal education and hands-on experience. In my free time, you'll often find me in the gym or coding away on a personal project. I love the challenge of solving problems through code, and I'm always eager to learn more. My diverse interests and experiences have taught me to be open to new opportunities and to pursue what I love.
+ I have a background in commerce, but my true passion lies in programming. Over the past two years, I've honed my programming skills through both formal education and hands-on experience. In my free time, you'll often find me in the gym or coding away on a personal project. I love the challenge of solving problems through code, and I'm always eager to learn more. My diverse interests and experiences have taught me to be open to new opportunities and to pursue what I love.
   
   
 ## 📊 **Github Stats :**
