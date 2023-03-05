@@ -33,6 +33,8 @@
 </summary>
   <br >
   
+  <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/mTPjPA6SSXgTsnZ1Dh/giphy.gif?cid=ecf05e47xn6apn13vsuckslu24ow1fyeyt2ldv27hk2tpyi3&rid=giphy.gif&ct=g">
+  
  **About Me:** I have a background in commerce, but my true passion lies in programming. Over the past two years, I've honed my programming skills through both formal education and hands-on experience. In my free time, you'll often find me in the gym or coding away on a personal project. I love the challenge of solving problems through code, and I'm always eager to learn more. My diverse interests and experiences have taught me to be open to new opportunities and to pursue what I love.
   
   
