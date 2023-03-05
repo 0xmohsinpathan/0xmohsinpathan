@@ -3,6 +3,8 @@
 
 <p align="left"> <a href="https://twitter.com/0xmohsin" target="blank"><img src="https://img.shields.io/twitter/follow/0xmohsin?logo=twitter&style=for-the-badge" alt="0xmohsin" /></a> </p>
 
+ <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/mTPjPA6SSXgTsnZ1Dh/giphy.gif?cid=ecf05e47xn6apn13vsuckslu24ow1fyeyt2ldv27hk2tpyi3&rid=giphy.gif&ct=g">
+
 - 🔭 I’m currently working on @games_project
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🌱 I’m currently learning: **𝙴𝚕𝚒𝚡𝚒𝚛 𝙵𝚞𝚗𝚌𝚝𝚒𝚘𝚗𝚊𝚕 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎**
@@ -33,7 +35,7 @@
 </summary>
   <br >
   
-  <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/mTPjPA6SSXgTsnZ1Dh/giphy.gif?cid=ecf05e47xn6apn13vsuckslu24ow1fyeyt2ldv27hk2tpyi3&rid=giphy.gif&ct=g">
+ 
   
  **About Me:** I have a background in commerce, but my true passion lies in programming. Over the past two years, I've honed my programming skills through both formal education and hands-on experience. In my free time, you'll often find me in the gym or coding away on a personal project. I love the challenge of solving problems through code, and I'm always eager to learn more. My diverse interests and experiences have taught me to be open to new opportunities and to pursue what I love.
   
