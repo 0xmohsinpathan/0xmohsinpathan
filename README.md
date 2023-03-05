@@ -63,7 +63,7 @@
    
 </details>  
  
- <img align="center" alt="Coding" width="400" src="https://media2.giphy.com/media/YSWfA9hPwWAUc4DnTj/giphy.gif?cid=ecf05e476jgn4vx2npedcu7n8y0nb9x7hicwgz732i0yig87&rid=giphy.gif&ct=s">  
+ <img align="center" alt="Coding" width="400" src="https://media1.giphy.com/media/WodOtJNNNQEXRSSXp2/giphy.gif?cid=790b7611p3cuixoiii5xhlwkqe8mtk9etp69mmracz1m3ice&rid=giphy.gif&ct=s">  
  
 </details>
 
