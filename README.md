@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/0xmohsin" target="blank"><img src="https://img.shields.io/twitter/follow/0xmohsin?logo=twitter&style=for-the-badge" alt="0xmohsin" /></a> </p>
 
-<!--  <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/mTPjPA6SSXgTsnZ1Dh/giphy.gif?cid=ecf05e47xn6apn13vsuckslu24ow1fyeyt2ldv27hk2tpyi3&rid=giphy.gif&ct=g"> -->
+ <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/mTPjPA6SSXgTsnZ1Dh/giphy.gif?cid=ecf05e47xn6apn13vsuckslu24ow1fyeyt2ldv27hk2tpyi3&rid=giphy.gif&ct=g](https://th.bing.com/th/id/R.d5402bb66153ff4cbd0c1dfa24baceff?rik=34WETwvvb3s5LQ&riu=http%3a%2f%2fmedia1.giphy.com%2fmedia%2fQUOs7hGpn6PS%2fgiphy.gif&ehk=5zLwgTRyydo15tVQwq6DiRsZbiSnnA1uBVEaIjEZHQQ%3d&risl=&pid=ImgRaw&r=0)">
 
 - 🔭 I’m currently working on @games_project
 - :computer: Most used line of code `git commit -m "Initial Commit"`
