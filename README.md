@@ -1,3 +1,5 @@
+  <img align="left" alt="Coding" width="400" src="https://media3.giphy.com/media/h0aeoV34DXNZu/giphy.gif?cid=ecf05e47e29id89ca76u1lkt04y7qqsj91y8vpea703xw8oj&rid=giphy.gif&ct=s">
+
 ## Hi There! I'm Mohsin Khan <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 𝖨'𝗆 𝖺𝗌𝗉𝗂𝗋𝗂𝗇𝗀 𝖺 𝖿𝗎𝗅𝗅 𝗌𝗍𝖺𝖼𝗄 𝖽𝖾𝗏𝖾𝗅𝗈𝗉𝖾𝗋 𝖿𝗋𝗈𝗆 𝖨𝗇𝖽𝗂𝖺 𝗐𝗂𝗍𝗁 𝖻𝗂𝗀 𝖽𝗋𝖾𝖺𝗆𝗌 𝗈𝖿 𝖻𝖾𝖼𝗈𝗆𝗂𝗇𝗀 𝖺 𝗌𝗈𝖿𝗍𝗐𝖺𝗋𝖾 𝖾𝗇𝗀𝗂𝗇𝖾𝖾𝗋𝗂𝗇𝗀 𝗌𝗎𝗉𝖾𝗋𝗌𝗍𝖺𝗋.
 
@@ -58,9 +60,7 @@
    
 </details>  
  
- <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/82ozVGY6TnFCBmSpLt/giphy.gif?cid=ecf05e473iinit50yqbp2nfzdv9zv9pwvd5n3wudsm5xaxna&rid=giphy.gif&ct=s">  
- 
-   <img align="left" alt="Coding" width="400" src="https://media3.giphy.com/media/h0aeoV34DXNZu/giphy.gif?cid=ecf05e47e29id89ca76u1lkt04y7qqsj91y8vpea703xw8oj&rid=giphy.gif&ct=s">
+ <img align="center" alt="Coding" width="400" src="https://media4.giphy.com/media/82ozVGY6TnFCBmSpLt/giphy.gif?cid=ecf05e473iinit50yqbp2nfzdv9zv9pwvd5n3wudsm5xaxna&rid=giphy.gif&ct=s">  
  
 </details>
 
