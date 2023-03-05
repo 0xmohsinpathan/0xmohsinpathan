@@ -59,7 +59,7 @@
   </summary>
    <br >  
     
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xmohsinpathan&show_icons=true&locale=en&layout=compact" alt="0xmohsinpathan" /></p>
+<p><img align="left" src="https://media0.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif?cid=ecf05e47xe8t2kzo6t9h3jqalr6bka7uh4z3ra1up4lq1msh&rid=giphy.gif&ct=s" alt="0xmohsinpathan" /></p>
    
 </details>  
  
