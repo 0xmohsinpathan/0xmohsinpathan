@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/0xmohsin" target="blank"><img src="https://img.shields.io/twitter/follow/0xmohsin?logo=twitter&style=for-the-badge" alt="0xmohsin" /></a> </p>
 
- <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/mTPjPA6SSXgTsnZ1Dh/giphy.gif?cid=ecf05e47xn6apn13vsuckslu24ow1fyeyt2ldv27hk2tpyi3&rid=giphy.gif&ct=g">
+<!--  <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/mTPjPA6SSXgTsnZ1Dh/giphy.gif?cid=ecf05e47xn6apn13vsuckslu24ow1fyeyt2ldv27hk2tpyi3&rid=giphy.gif&ct=g"> -->
 
 - 🔭 I’m currently working on @games_project
 - :computer: Most used line of code `git commit -m "Initial Commit"`
@@ -13,7 +13,7 @@
 
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/@0xmohsin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@0xmohsin" height="30" width="40" /></a>
 <a href="https://twitter.com/0xmohsin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0xmohsin" height="30" width="40" /></a>
@@ -40,7 +40,7 @@
  **About Me:** I have a background in commerce, but my true passion lies in programming. Over the past two years, I've honed my programming skills through both formal education and hands-on experience. In my free time, you'll often find me in the gym or coding away on a personal project. I love the challenge of solving problems through code, and I'm always eager to learn more. My diverse interests and experiences have taught me to be open to new opportunities and to pursue what I love.
   
   
-## Coding Stats
+## 📊 **Github Stats :**
   
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xmohsinpathan&show_icons=true&locale=en&layout=compact" alt="0xmohsinpathan" /></p>
   
