@@ -51,7 +51,7 @@
  
   <details> 
  <summary> 
- 📊 Github Stats :
+ ⏳ Most Used Languages :
   </summary>
    <br >  
     
