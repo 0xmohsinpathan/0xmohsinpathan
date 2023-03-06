@@ -13,7 +13,7 @@
 - 🤔 I’m looking for pair programming in Elixir.
 - 📫 How to reach me: **0xmohsinpathan@gmail.com**.
 
-<img align="right" alt="Coding" width="320" height="320" src="https://media4.giphy.com/media/XUW0Q2r7yhTUJiMIHd/giphy.gif">
+
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
@@ -26,6 +26,7 @@
 <p align="left"> <a href="https://elixir-lang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" alt="elixir" width="40" height="40"/> </a> <a href="https://www.phoenixframework.org" target="_blank" rel="noreferrer"> <img src="https://www.phoenixframework.org/images/blog/14-released-b45b2d29b260dbacc427976a72c78535.png?vsn=d" alt="phoenix" width="40" height="40"/> </a> <a href="https://www.erlang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/erlang/erlang-official.svg" alt="erlang" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/html/default.asp" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/R.fbf9698bf59467fe2c425137845236e4?rik=OlVUcLGItQyh9w&riu=http%3a%2f%2falemani.com%2fwp-content%2fuploads%2f2015%2f03%2fTerminal-icon.png&ehk=9m%2bhnYcpnrUNfC%2fRJw0WidLxBM33uFHkWwV4lkgW2x8%3d&risl=&pid=ImgRaw&r=0" alt="bash" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://codepen.io/0xmohsin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="codepen" height="40" width="40" /></a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>  </p>
 
+<img align="right" alt="Coding" width="320" height="320" src="https://media4.giphy.com/media/XUW0Q2r7yhTUJiMIHd/giphy.gif">
 
 #### Profile Visits 
 
