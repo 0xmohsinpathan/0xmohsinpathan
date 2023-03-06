@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/0xmohsin" target="blank"><img src="https://img.shields.io/twitter/follow/0xmohsin?logo=twitter&style=for-the-badge" alt="0xmohsin" /></a> </p>
 
- <img align="right" alt="Coding" width="320" height="320" src="https://media4.giphy.com/media/XUW0Q2r7yhTUJiMIHd/giphy.gif">
+ 
 
 - 🔭 I’m currently working on @games_project
 - :computer: Most used line of code `git commit -m "Initial Commit"`
@@ -13,7 +13,7 @@
 - 🤔 I’m looking for pair programming in Elixir.
 - 📫 How to reach me: **0xmohsinpathan@gmail.com**.
 
-
+<img align="right" alt="Coding" width="320" height="320" src="https://media4.giphy.com/media/XUW0Q2r7yhTUJiMIHd/giphy.gif">
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
