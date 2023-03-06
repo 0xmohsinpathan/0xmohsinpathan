@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/0xmohsin" target="blank"><img src="https://img.shields.io/twitter/follow/0xmohsin?logo=twitter&style=for-the-badge" alt="0xmohsin" /></a> </p>
 
- <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/YRMb6dd7zprS00JdGZ/giphy.gif?cid=ecf05e473bbdbbe8636d0ca6d0454974ab115d6d72db2d0b&rid=giphy.gif&ct=s">
+ <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/XUW0Q2r7yhTUJiMIHd/giphy.gif">
 
 - 🔭 I’m currently working on @games_project
 - :computer: Most used line of code `git commit -m "Initial Commit"`
@@ -63,7 +63,7 @@
    
 </details>  
  
- <img align="center" alt="Coding" width="400" src="https://media1.giphy.com/media/WodOtJNNNQEXRSSXp2/giphy.gif?cid=790b7611p3cuixoiii5xhlwkqe8mtk9etp69mmracz1m3ice&rid=giphy.gif&ct=s">  
+ <img align="center" alt="Coding" width="400" src="https://media0.giphy.com/media/YRMb6dd7zprS00JdGZ/giphy.gif?cid=ecf05e473bbdbbe8636d0ca6d0454974ab115d6d72db2d0b&rid=giphy.gif&ct=s">  
  
 </details>
 
