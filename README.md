@@ -7,7 +7,7 @@
 
  <img align="right" alt="Coding" width="380" height="320" src="https://media3.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif?cid=ecf05e47cuio97zhs5uu6anu8a125fmnabrah53gdrstnfg9&rid=giphy.gif&ct=ts">
 
-- 🔭 I’m currently working on @blog_project
+- 🔭 I’m currently working on <a href="https://github.com/tindrew/writforge">@blog_project</a>
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🌱 I’m currently learning Erlang & Elixir
 - 🤔 I’m looking for pair programming in Elixir.
