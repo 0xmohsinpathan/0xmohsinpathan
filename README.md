@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/0xmohsin" target="blank"><img src="https://img.shields.io/twitter/follow/0xmohsin?logo=twitter&style=for-the-badge" alt="0xmohsin" /></a> </p>
 
- <img align="right" alt="Coding" width="380" height="320" src="https://media3.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif?cid=ecf05e47cuio97zhs5uu6anu8a125fmnabrah53gdrstnfg9&rid=giphy.gif&ct=ts">
+ <img align="right" alt="Coding" width="380" height="320" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWNkYmVkMmNlNmI5YzhkYWNkZWM5ZGI2OTJmODM0ODI3MWNkZTQyZCZjdD1z/mAZf4H4Pi0wwlj3ZAw/giphy.gif">
 
 - 🔭 I’m currently working on <a href="https://github.com/tindrew/writforge">@blog_project</a>
 - :computer: Most used line of code `git commit -m "Initial Commit"`
