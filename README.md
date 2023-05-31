@@ -18,8 +18,8 @@
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/0xmohsin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0xmohsin" height="30" width="40" /></a>
-<a href="https://instagram.com/mohsinpathanx_x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@mohsinpathanx_x" height="30" width="40" /></a>
-<a href="https://dsc.bio/0xmohsin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Github" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/0xmohsin/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/256/174/174857.png" alt="" height="30" width="30" /></a>
+<a href="https://dsc.bio/0xmohsin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Github" height="40" width="40" /></a>
 </p>
 
 
