@@ -63,10 +63,20 @@
  ⏳ Most Used Languages :
   </summary>
    <br >  
+
+  
     
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xmohsinpathan&show_icons=true&locale=en&layout=compact" alt="0xmohsinpathan"/></p>
    
 </details>  
+
+<details> 
+ <summary> 
+ ✴️ DevCard :
+  </summary>
+   <br >  
+ <a href="https://app.daily.dev/devbymohsin"><img src="https://api.daily.dev/devcards/3bf76526be6545dda613d89d10d99bd2.png?r=ngm" width="400" alt="Mohsin Khan's Dev Card"/></a>  
+</details>
  
  <img align="center" alt="Coding" width="400" src="https://media1.giphy.com/media/WodOtJNNNQEXRSSXp2/giphy.gif?cid=790b7611p3cuixoiii5xhlwkqe8mtk9etp69mmracz1m3ice&rid=giphy.gif&ct=s">  
  
